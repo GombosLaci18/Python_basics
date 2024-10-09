@@ -7,4 +7,4 @@ class wardrobe:
         pass
 
 
-wardrobe1 = wardrobe("brown")
+wardrobe1 = wardrobe("brown", 5, 10)
